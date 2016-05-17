@@ -12,6 +12,7 @@ namespace GildedRose
 	public class ApprovalTest
 	{
 		[Test]
+        [Ignore]
 		public void ThirtyDays()
 		{
 			StringBuilder fakeoutput = new StringBuilder();
