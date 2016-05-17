@@ -1,12 +1,11 @@
 ﻿using System;
 using System.IO;
 using System.Text;
-using GildedRoseKata;
-using NUnit.Framework;
 using ApprovalTests;
 using ApprovalTests.Reporters;
+using NUnit.Framework;
 
-namespace GildedRoseTests
+namespace GildedRose
 {
 	[TestFixture]
 	[UseReporter(typeof(NUnitReporter))]

@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose", "GildedRose\GildedRose.csproj", "{29EB0741-DA36-4970-BDE9-39D9AFC46AAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose.Tests", "GildedRose.Tests\GildedRose.Tests.csproj", "{616E9905-BFAD-4756-B038-CF93A776D11C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{29EB0741-DA36-4970-BDE9-39D9AFC46AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29EB0741-DA36-4970-BDE9-39D9AFC46AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29EB0741-DA36-4970-BDE9-39D9AFC46AAD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{616E9905-BFAD-4756-B038-CF93A776D11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{616E9905-BFAD-4756-B038-CF93A776D11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{616E9905-BFAD-4756-B038-CF93A776D11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{616E9905-BFAD-4756-B038-CF93A776D11C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

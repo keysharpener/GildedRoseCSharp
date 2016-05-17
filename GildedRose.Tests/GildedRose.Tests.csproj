@@ -58,9 +58,6 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
-    <Compile Include="ApprovalTest.cs" />
-    <Compile Include="GildedRoseTest.cs" />
-    <Compile Include="TextTestFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
